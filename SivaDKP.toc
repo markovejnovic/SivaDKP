@@ -2,7 +2,7 @@
 ## Title: Auctionator
 ## Version: 0.0.1
 ## Author: Sivasokolica
-## Notes: A KISS, easy-to-use DKP system, customized for <Symbolic>
+## Notes: A KISS, easy-to-use DKP system
 
 GuildUtil.lua
 DKPDB.lua

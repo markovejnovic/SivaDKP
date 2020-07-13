@@ -1,0 +1,5 @@
+local GuildParserFrame = CreateFrame("Frame")
+GuildParserFrame:RegisterEvent("CHAT_MSG_GUILD")
+GuildParserFrame:SetScript("OnEvent", function (self, event, message, sender, ...)
+	dkpcommandparser.parse_command_and_execute(message, sender)
+end)

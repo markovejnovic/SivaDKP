@@ -1,0 +1,14 @@
+## Interface: 70300
+## Title: Auctionator
+## Version: 0.0.1
+## Author: Sivasokolica
+## Notes: A KISS, easy-to-use DKP system, customized for <Symbolic>
+
+GuildUtil.lua
+DKPDB.lua
+DKPBidTracker.lua
+Permissions.lua
+DKPCommand.lua
+DKPCommandParser.lua
+
+SivaDKP.lua
